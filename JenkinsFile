@@ -10,7 +10,7 @@ pipeline {
                 }
             }
             steps {
-                echo 'Hello World'
+                echo 'Hello horld'
                 sh '''
                     ls -la
                     node --version
